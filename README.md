@@ -34,7 +34,7 @@ This dashboard helps visualize end-to-end chocolate sales data. It includes sale
 
 ## 🧠 Key Insights
 
-📌 [Click here to view full Business Insights](insights/BUSINESS_INSIGHTS.md)
+📌 📌 [Click here to view full Business Insights](INSIGHTS/BUSINESS_INSIGHTS.md)
 
 ---
 
